@@ -1,8 +1,8 @@
 
-{ font-family:'Courier New', Courier, monospace;
-   color: #333; }
 
-header,body{background-color: #fff1e6;}
+header,body{background-color: #fff1e6;
+    font-family:'Courier New', Courier, monospace;
+    color: #333;}
 
 
 h1{text-align: center;
