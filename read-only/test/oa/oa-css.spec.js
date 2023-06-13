@@ -39,7 +39,7 @@ describe('CSS', () => {
       const footerRules = getRulesForSelector('footer');
       expect(footerRules.length).toBeGreaterThan(0);
     });
-
+  
     it('Se usan selectores CSS de class para <ul>', () => {      
       expect(
         ulClasses.some(
